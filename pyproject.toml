@@ -13,6 +13,8 @@ dependencies = [
     "requests>=2.32",
     "rich>=13.9",
     "matplotlib>=3.9",
+    "isort>=7.0.0",
+    "black>=25.9.0",
 ]
 
 [tool.uv]
