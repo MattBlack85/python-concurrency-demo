@@ -1,0 +1,18 @@
+[project]
+name = "python-concurrency-demo"
+version = "0.1.0"
+description = "Examples for a webinar on Python concurrency: threads vs multiprocessing vs async."
+authors = [
+    { name = "Mattia Procopio", email = "promat85@gmail.com" }
+]
+requires-python = ">=3.10"
+readme = "README.md"
+
+dependencies = [
+    "aiohttp>=3.9",
+    "requests>=2.32",
+    "rich>=13.9",
+    "matplotlib>=3.9",
+]
+
+[tool.uv]
