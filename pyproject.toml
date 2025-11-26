@@ -15,6 +15,7 @@ dependencies = [
     "matplotlib>=3.9",
     "isort>=7.0.0",
     "black>=25.9.0",
+    "ipdb>=0.13.13",
 ]
 
 [tool.uv]
