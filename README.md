@@ -9,11 +9,16 @@ and you can thank me later.
 
 # Run individual demos:
 `uv run 01_sequential/demo.py`
+
 `uv run 02_threads/demo.py`
+
 `uv run 03_multiprocessing/demo.py`
+
 `uv run 04_asyncio/demo.py`
 
 # Run benchmark comparisons:
 `uv run 05_benchmarks/cpu_bound.py`
+
 `uv run 05_benchmarks/io_bound.py`
+
 `uv run 05_benchmarks/http_server.py`
