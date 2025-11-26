@@ -2,8 +2,10 @@
 Let's dive into python tools to deal with concurrency
 
 ## Running the demos
-The repo assumes the use of uv. (https://docs.astral.sh/uv/)
+The repo assumes the use of uv (https://docs.astral.sh/uv/)
+
 If you are a pip user you can definitely upgrade to use uv now :P
+
 Your life will be easier, faster and more secure by using locked dependencies
 and you can thank me later.
 
